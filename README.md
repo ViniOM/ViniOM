@@ -9,8 +9,8 @@
 
 
 <p>
-<img align="center" width="500em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&hide=contribs&theme=aura"/>
-<img align="center" width=345em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&layout=compact&theme=aura"/>
+<img align="center" width="430em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&hide=contribs&theme=aura"/>
+<img align="center" width=297em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&layout=compact&theme=aura"/>
 </p>
 
 
@@ -35,10 +35,10 @@
 ## Projetos
 
   <a href="https://github.com/ViniOM/projeto_final_bloco_01">
-  <img align="center" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=projeto_final_bloco_01&theme=aura" />
+  <img align="center" width="340em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=projeto_final_bloco_01&theme=aura" />
 </a>
 <a href="https://paleteria-elgeladon.vercel.app/">
-  <img align="center" width="465em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=aura" />
+  <img align="center" width="397em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=aura" />
 </a>
 
 
