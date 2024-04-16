@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=700&height=65&lines=Hello%2C+my+name+is+Vinicios+++++++++++++++++++++;I'm+18+years+old;I'm+Full-Stack+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=650&height=65&lines=Hello%2C+my+name+is+Vinicios+++++++++++++++++++++;I'm+18+years+old;I'm+Full-Stack+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniom/)
