@@ -14,9 +14,10 @@
 ![MongoDB](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![Express](https://img.shields.io/badge/Express.js-F7DF1E?style=for-the-badge)![mysql](https://img.shields.io/badge/MySQL-015B85?style=for-the-badge&logo=mysql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</br></br>
 
 ### Projetos
-<a href="https://paleteria-elgeladon.vercel.app/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=aura" />
-</a>
 <a href="https://github.com/ViniOM/projeto_final_bloco_01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=projeto_final_bloco_01&theme=aura" />
 </a>
+<a href="https://paleteria-elgeladon.vercel.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=aura" />
+</a>
+
