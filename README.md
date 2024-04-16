@@ -1,5 +1,6 @@
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=700&height=65&lines=Hello%2C+my+name+is+Vinicios+++++++++++++++++++++;I'm+18+years+old;I'm+Full-Stack+Developer;I'm+from+Brazil;Welcome%3A)](https://git.io/typing-svg)
 
-# Olá! Eu sou o Vinicios Gabriel 🖐️
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniom/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
@@ -8,8 +9,8 @@
 
 </br>
 <p>
-<img align="center" width="430em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&hide=contribs&theme=aura"/>
-<img align="center" width=297em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&layout=compact&theme=aura"/>
+<img align="center" width="430em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&hide=contribs&theme=midnight-purple"/>
+<img align="center" width=297em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&layout=compact&theme=midnight-purple"/>
 </p>
 
 </br>
@@ -34,10 +35,10 @@
 ## Projetos
 
   <a href="https://github.com/ViniOM/projeto_final_bloco_01">
-  <img align="center" width="340em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=projeto_final_bloco_01&theme=aura" />
+  <img align="center" width="340em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=projeto_final_bloco_01&theme=midnight-purple" />
 </a>
 <a href="https://paleteria-elgeladon.vercel.app/">
-  <img align="center" width="397em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=aura" />
+  <img align="center" width="397em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=midnight-purple" />
 </a>
 
 
