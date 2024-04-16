@@ -1,20 +1,16 @@
 
 # Olá! Eu sou o Vinicios Gabriel 🖐️
-
-</br>
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniom/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v1ni.kk/)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-
+</br>
 <p>
 <img align="center" width="430em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&hide=contribs&theme=aura"/>
 <img align="center" width=297em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&layout=compact&theme=aura"/>
 </p>
-
 
 </br>
 
