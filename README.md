@@ -1,9 +1,10 @@
 # 🐱‍👤 Vinicios Gabriel
   <code>18 years old</code>
 <p>
-  Sou um entusiasta e amante da tecnologia, com experiencia Full-Stack adiquirida ao longo de 1 ano de estudo continuo</br>
-  Solido conhecimento em diversas tecnologias como: Javascript, Typescript, NestJS, ReactJS, TailwindCSS, MySQL e outros</br></br>
-  Atualmente estou no Bootcamp intensivo da <b>Generation Brasil</b>
+ Sou um entusiasta e amante da tecnologia, com experiência Full-Stack adquirida ao longo de 1 ano de estudo contínuo. 
+  Possuo sólido conhecimento em diversas tecnologias, tais como: JavaScript, TypeScript, NestJS, ReactJS, TailwindCSS, MySQL, entre outras.
+
+Atualmente, estou participando do Bootcamp intensivo da <b>Generation Brasil</b>.
 
 </p>
 
