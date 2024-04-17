@@ -61,10 +61,10 @@
 </br>
 </br>
   <a href="https://github.com/ViniOM/projeto_final_bloco_01">
-  <img align="center" width="397em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=projeto_final_bloco_01&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&" />
+  <img align="center" width="350em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=projeto_final_bloco_01&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&" />
 </a>
 <a href="https://paleteria-elgeladon.vercel.app/">
-  <img align="center" width="465em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224" />
+  <img align="center" width="407em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224" />
 </a>
 </div>
 
