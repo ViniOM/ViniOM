@@ -23,8 +23,10 @@
 
 </br>
 
+
 ## 🧰 Linguagens e Ferramentas
 
+</br>
 <div align="center">
 
 <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/559c6c47-7aa2-4181-ba62-a4ee9ea6c86c"/>
