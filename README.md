@@ -30,12 +30,12 @@ Atualmente, estou participando do Bootcamp intensivo da <b>Generation Brasil</b>
 <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/f21546fb-ccce-427b-9061-b1080535c3ce"/>
 <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/9d73e159-c4f9-449b-bddc-acc87892a65b"/>
 <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/d5b1a4cb-7b9a-4092-af6e-fa88b7a352bf"/>
-<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/1e8b3026-07be-4e0d-885e-48f5fdab0a89"/>
 <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/83799379-3ec0-4cfa-8a4a-abefa8ea1e0b"/>
 <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/e1aa6d0a-ca67-4a25-bb79-1a42aa1dc64e"/>
 <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/13e0d631-f49e-4885-bc37-a6d001fc906b"/>
 <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/855c6559-b80d-4525-98a4-eb121d1782b5"/>
 <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/0e991b7a-76db-441a-8d5f-644116c29aeb"/>
+<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/1e8b3026-07be-4e0d-885e-48f5fdab0a89"/>
 
 </div>
 
