@@ -1,4 +1,7 @@
-# 🐱‍👤 Vinicios Gabriel
+
+
+<h1>Vinicios Gabriel Oliveira</h1>
+  
   <code>18 years old</code>
   <code>Curious</code>
   <code>Ambitious</code>
@@ -13,8 +16,9 @@
 
 </p>
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira-code-bold&pause=1000&color=E81224&random=false&width=435&lines=Full-Stack+Developer&center=false&vCenter=false)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira-code-bold&pause=1000&color=E81224&random=false&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/viniom/"><img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/9cbb0bcf-f6d8-4c14-a807-086ba9a74737" href="https://www.linkedin.com/in/viniom/"/></a>
@@ -48,9 +52,10 @@
 
 <div align="center">
 </br>
-<img width="443em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&show_icons=true&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&"/>
+<img width="443em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&show_icons=true&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&l"/>
 <img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&hide=glsl,css&langs_count=3&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&"/>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=manyh)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 </br>
