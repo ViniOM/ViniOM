@@ -2,7 +2,7 @@
   <code>18 years old</code>
 <p>
  Sou um entusiasta e amante da tecnologia, com experiência Full-Stack adquirida ao longo de 1 ano de estudo contínuo. 
-  Possuo sólido conhecimento em diversas tecnologias, tais como: JavaScript, TypeScript, NestJS, ReactJS, TailwindCSS, MySQL, entre outras.
+  Possuo sólido conhecimento em diversas tecnologias, tais como: JavaScript, TypeScript, NestJS, ReactJS, NextJS, MySQL, entre outras.
 
 Atualmente, estou participando do Bootcamp intensivo da <b>Generation Brasil</b>.
 
