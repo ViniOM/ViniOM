@@ -12,7 +12,6 @@
        - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
-            user_name: ViniOM
             # Text on contribution graph 
             text: vini
        - uses: jasineri/simple-push-action@v1
