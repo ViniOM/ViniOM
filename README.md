@@ -52,9 +52,9 @@
 
 <div align="center">
 </br>
-<img width="443em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&show_icons=true&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&"/>
-<img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&hide=glsl,css&langs_count=3&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=manyh&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&)](https://github.com/anuraghazra/github-readme-stats&layout=compact"/>
+<img width="443em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&show_icons=true&theme=shadow_red&title_color=ffff&icon_color=2CE5F7FF&text_color=B4B2B2&border_color=2CE5F7FF&"/>
+<img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&hide=glsl,css&langs_count=3&theme=shadow_red&title_color=ffff&icon_color=2CE5F7FF&text_color=B4B2B2&border_color=2CE5F7FF&"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=manyh&theme=shadow_red&title_color=ffff&icon_color=2CE5F7FF&text_color=B4B2B2&border_color=2CE5F7FF&)](https://github.com/anuraghazra/github-readme-stats&layout=compact"/>
 
 </div>
 </br>
