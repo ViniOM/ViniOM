@@ -1,10 +1,15 @@
 # 🐱‍👤 Vinicios Gabriel
   <code>18 years old</code>
+  <code>Curious</code>
+  <code>Ambitious</code>
+  <code>Proactive</code>
+  
+  
 <p>
- Sou um entusiasta e amante da tecnologia, com experiência Full-Stack adquirida ao longo de 1 ano de estudo contínuo. 
-  Possuo sólido conhecimento em diversas tecnologias, tais como: JavaScript, TypeScript, NestJS, ReactJS, NextJS, MySQL, entre outras.
+ I am an enthusiast and lover of technology, with Full-Stack experience acquired over 1 year of continuous study.
+ I have solid knowledge in various technologies, such as: JavaScript, TypeScript, NestJS, ReactJS, NextJS, MySQL, among others.
 
-Atualmente, estou participando do Bootcamp intensivo da <b>Generation Brasil</b>.
+  I am currently participating in the <b>Generation Brasil</b> intensive Bootcamp.
 
 </p>
 
@@ -21,7 +26,7 @@ Atualmente, estou participando do Bootcamp intensivo da <b>Generation Brasil</b>
 </br>
 
 
-## 🧰 Linguagens e Ferramentas
+## 🧰 Languages ​​and tools
 
 </br>
 <div align="center">
@@ -49,23 +54,6 @@ Atualmente, estou participando do Bootcamp intensivo da <b>Generation Brasil</b>
 
 </div>
 </br>
-
-## 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniOM/ViniOM/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniOM/ViniOM/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniOM/ViniOM/output/github-contribution-grid-snake.svg">
-  </picture>
-</br>
-</br>
-  <a href="https://github.com/ViniOM/blog_pessoal">
-  <img align="center" width="407em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=blog_pessoal&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&" /></a>
-<a href="https://paleteria-elgeladon.vercel.app/">
-  <img align="center" width="407em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224" />
-</a>
-</div>
-
 
 
 
