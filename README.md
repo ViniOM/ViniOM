@@ -11,13 +11,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira-code-bold&pause=1000&color=E81224&random=false&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
 
 <div align="left">
-  <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/9cbb0bcf-f6d8-4c14-a807-086ba9a74737"/>
-
-  
-  <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/1fc0ac2a-21b4-4d52-a38f-7ee9d3259a7c"/>
-
-  
-  <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/3cc88e6d-57d1-4ab3-b8e8-e4b25b4bf504"/>
+  <a href="https://www.linkedin.com/in/viniom/"><img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/9cbb0bcf-f6d8-4c14-a807-086ba9a74737" href="https://www.linkedin.com/in/viniom/"/></a>
+  <a href="https://www.instagram.com/v1ni.kk/"><img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/1fc0ac2a-21b4-4d52-a38f-7ee9d3259a7c"/></a>
+  <a href="https://www.discord.com/user/@vinih4"><img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/3cc88e6d-57d1-4ab3-b8e8-e4b25b4bf504"/></a>
 
 </div>
 
@@ -63,8 +59,7 @@
 </br>
 </br>
   <a href="https://github.com/ViniOM/projeto_final_bloco_01">
-  <img align="center" width="350em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=projeto_final_bloco_01&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&" />
-</a>
+  <img align="center" width="350em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=projeto_final_bloco_01&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&" /></a>
 <a href="https://paleteria-elgeladon.vercel.app/">
   <img align="center" width="407em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224" />
 </a>
