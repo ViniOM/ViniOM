@@ -51,7 +51,6 @@
 <img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&hide=glsl,css&langs_count=3&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=e6edf3&border_color=E81224&"/>
 
 
-
 </div>
 <div>
   <picture>
