@@ -16,14 +16,13 @@
 
 </p>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira-code-bold&pause=1000&color=E81224&random=false&width=435&lines=Full-Stack+Developer&center=false&vCenter=false)](https://git.io/typing-svg)
-
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira-code-bold&pause=1000&color=5865F2&random=false&width=435&lines=Full-Stack+Developer&center=false&vCenter=false)](https://git.io/typing-svg)
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/viniom/"><img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/9cbb0bcf-f6d8-4c14-a807-086ba9a74737" href="https://www.linkedin.com/in/viniom/"/></a>
-  <a href="https://www.instagram.com/v1ni.kk/"><img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/1fc0ac2a-21b4-4d52-a38f-7ee9d3259a7c"/></a>
-  <a href="https://www.discord.com/user/@vinih4"><img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/3cc88e6d-57d1-4ab3-b8e8-e4b25b4bf504"/></a>
+  <a href="https://www.linkedin.com/in/viniom/"><img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/d102d73b-0db6-45f4-8462-891f89e9e220" href="https://www.linkedin.com/in/viniom/"/></a>
+  <a href="https://www.instagram.com/v1ni.kk/"><img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/fdcdac7b-0abe-42d6-ab0b-e5f49b30e28a"/></a>
+  <a href="https://www.discord.com/user/@vinih4"><img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/04653d81-259d-4f4b-84bf-c12f022bc92f"/></a>
 
 </div>
 
@@ -52,9 +51,9 @@
 
 <div align="center">
 </br>
-<img width="443em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&show_icons=true&theme=shadow_red&title_color=ffff&icon_color=2CE5F7FF&text_color=B4B2B2&border_color=2CE5F7FF&"/>
-<img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&hide=glsl,css&langs_count=3&theme=shadow_red&title_color=ffff&icon_color=2CE5F7FF&text_color=B4B2B2&border_color=2CE5F7FF&"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=manyh&theme=shadow_red&title_color=ffff&icon_color=2CE5F7FF&text_color=B4B2B2&border_color=2CE5F7FF&)](https://github.com/anuraghazra/github-readme-stats&layout=compact"/>
+<img width="443em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&show_icons=true&theme=shadow_red&title_color=ffff&icon_color=5865F2&text_color=B4B2B2&border_color=5865F2&"/>
+<img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&hide=glsl,css&langs_count=3&theme=shadow_red&title_color=ffff&icon_color=5865F2&text_color=B4B2B2&border_color=5865F2&"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=manyh&theme=shadow_red&title_color=ffff&icon_color=5865F2&text_color=B4B2B2&border_color=5865F2&)](https://github.com/anuraghazra/github-readme-stats&layout=compact"/>
 
 </div>
 </br>
