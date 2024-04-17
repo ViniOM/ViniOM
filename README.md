@@ -59,7 +59,7 @@
 </br>
 </br>
   <a href="https://github.com/ViniOM/blog_pessoal">
-  <img align="center" width="350em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=blog_pessoal&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&" /></a>
+  <img align="center" width="407em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=blog_pessoal&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&" /></a>
 <a href="https://paleteria-elgeladon.vercel.app/">
   <img align="center" width="407em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224" />
 </a>
