@@ -21,14 +21,11 @@
 
 </div>
 
-
-
-
 </br>
 
 ## 🧰 Linguagens e Ferramentas
 
-<div align=>
+<div align="center">
 
 <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/559c6c47-7aa2-4181-ba62-a4ee9ea6c86c"/>
 <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/f21546fb-ccce-427b-9061-b1080535c3ce"/>
@@ -43,30 +40,35 @@
 
 </div>
 
-<div>
-  
-  ## ⛩ Status 
+</br>
 
-<img width="443em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&show_icons=true&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=e6edf3&border_color=E81224&"/>
-<img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&hide=glsl,css&langs_count=3&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=e6edf3&border_color=E81224&"/>
+<div align="center">
+</br>
+<img width="443em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&show_icons=true&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&"/>
+<img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&hide=glsl,css&langs_count=3&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&"/>
 
 
 </div>
-<div>
+</br>
+
+## 
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniOM/ViniOM/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniOM/ViniOM/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniOM/ViniOM/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-## Projetos
-
+</br>
+</br>
   <a href="https://github.com/ViniOM/projeto_final_bloco_01">
-  <img align="center" width="340em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=projeto_final_bloco_01&theme=midnight-purple" />
+  <img align="center" width="397em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=projeto_final_bloco_01&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224&" />
 </a>
 <a href="https://paleteria-elgeladon.vercel.app/">
-  <img align="center" width="397em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=midnight-purple" />
+  <img align="center" width="465em" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniOM&repo=Paleteria&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=B4B2B2&border_color=E81224" />
 </a>
+</div>
+
+
+
 
 
