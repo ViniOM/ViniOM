@@ -1,29 +1,58 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1500&pause=1000&color=9745F5&center=false&vCenter=true&random=false&width=650&height=65&lines=Hello%2C+my+name+is+Vinicios+++++++++++++++++++++;I'm+18+years+old;I'm+Full-Stack+Developer;I'm+from+Brazil)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&duration=8000&color=9745F5&center=false&vCenter=true&random=false&width=650&height=65&lines=My+favorite+color+is+PURPLE)](https://git.io/typing-svg)
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniom/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:vini.webdeveloper@gmail.com)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v1ni.kk/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](vinih4)
-
-</br>
+# 🐱‍👤 Vinicios Gabriel
+  <code>18 years old</code>
 <p>
-<img align="center" width="430em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&hide=contribs&theme=midnight-purple"/>
-<img align="center" width=297em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&layout=compact&theme=midnight-purple"/>
+  Sou um entusiasta e amante da tecnologia, com experiencia Full-Stack adiquirida ao longo de 1 ano de estudo continuo</br>
+  Solido conhecimento em diversas tecnologias como: Javascript, Typescript, NestJS, ReactJS, TailwindCSS, MySQL e outros</br></br>
+  Atualmente estou no Bootcamp intensivo da <b>Generation Brasil</b>
+
 </p>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira-code-bold&pause=1000&color=E81224&random=false&width=435&lines=Full-Stack+Developer)](https://git.io/typing-svg)
+
+<div align="left">
+  <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/9cbb0bcf-f6d8-4c14-a807-086ba9a74737"/>
+
+  
+  <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/1fc0ac2a-21b4-4d52-a38f-7ee9d3259a7c"/>
+
+  
+  <img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/3cc88e6d-57d1-4ab3-b8e8-e4b25b4bf504"/>
+
+</div>
+
+
+
+
 </br>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NEST](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-F7DF1E?style=for-the-badge)
-![mysql](https://img.shields.io/badge/MySQL-015B85?style=for-the-badge&logo=mysql&logoColor=white)
+## 🧰 Linguagens e Ferramentas
+
+<div align=>
+
+<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/559c6c47-7aa2-4181-ba62-a4ee9ea6c86c"/>
+<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/f21546fb-ccce-427b-9061-b1080535c3ce"/>
+<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/9d73e159-c4f9-449b-bddc-acc87892a65b"/>
+<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/d5b1a4cb-7b9a-4092-af6e-fa88b7a352bf"/>
+<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/1e8b3026-07be-4e0d-885e-48f5fdab0a89"/>
+<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/83799379-3ec0-4cfa-8a4a-abefa8ea1e0b"/>
+<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/e1aa6d0a-ca67-4a25-bb79-1a42aa1dc64e"/>
+<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/13e0d631-f49e-4885-bc37-a6d001fc906b"/>
+<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/855c6559-b80d-4525-98a4-eb121d1782b5"/>
+<img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/0e991b7a-76db-441a-8d5f-644116c29aeb"/>
+
+</div>
+
+<div>
+  
+  ## ⛩ Status 
+
+<img width="443em" src="https://github-readme-stats.vercel.app/api?username=ViniOM&show_icons=true&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=e6edf3&border_color=E81224&"/>
+<img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&hide=glsl,css&langs_count=3&theme=shadow_red&title_color=ffff&icon_color=E81224&text_color=e6edf3&border_color=E81224&"/>
+
+
+
+</div>
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniOM/ViniOM/output/github-contribution-grid-snake-dark.svg">
