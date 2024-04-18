@@ -56,10 +56,12 @@
 <img src="https://streak-stats.demolab.com?user=ViniOM&theme=shadow-red&border=4C57CE&ring=4C57CE&currStreakNum=D8D9DA&stroke=4C57CE&sideNums=D8D9DA&sideLabels=D8D9DA&fire=D8D9DA&currStreakLabel=D8D9DA&dates=B4B2B2" />
 
 <img src="https://github.com/ViniOM/ViniOM/blob/output/github-contribution-grid-snake-dark.svg"/>
-</div>
 
 #
-![](https://github-profile-trophy.vercel.app/?username=ViniOM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=-1)
+![](https://github-profile-trophy.vercel.app/?username=ViniOM&theme=tokyonight&no-frame=true&no-bg=true&column=-1&rank=-?)
+</div>
+
+
 
 
 
