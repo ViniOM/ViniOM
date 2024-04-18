@@ -25,7 +25,6 @@
   <a href="https://www.discord.com/user/@vinih4"><img width="70em" src="https://github.com/ViniOM/ViniOM/assets/73274632/04653d81-259d-4f4b-84bf-c12f022bc92f"/></a>
 
 </div>
-  <img src="https://visitcount.itsvg.in/api?id=ViniOM&label=Viewers&color=1&icon=5&pretty=true" />
 
 </br>
 
@@ -58,5 +57,9 @@
 
 <img src="https://github.com/ViniOM/ViniOM/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
-</br>
+
+#
+![](https://github-profile-trophy.vercel.app/?username=ViniOM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+
 
