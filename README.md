@@ -55,12 +55,7 @@
 <img width="270em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniOM&hide=glsl,css&langs_count=3&theme=shadow_red&title_color=ffff&icon_color=5865F2&text_color=B4B2B2&border_color=5865F2&"/>
 <img src="https://streak-stats.demolab.com?user=ViniOM&theme=shadow-red&border=4C57CE&ring=4C57CE&currStreakNum=D8D9DA&stroke=4C57CE&sideNums=D8D9DA&sideLabels=D8D9DA&fire=D8D9DA&currStreakLabel=D8D9DA&dates=B4B2B2" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img src="https://github.com/ViniOM/ViniOM/blob/output/github-contribution-grid-snake-dark.svg"/>
 </div>
-
 </br>
 
