@@ -2,7 +2,7 @@
 
 <h1>Vinicios Gabriel Oliveira</h1>
   
-  <code>18 years old</code>
+  <code>20 years old</code>
   <code>Curious</code>
   <code>Ambitious</code>
   <code>Proactive</code>
