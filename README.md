@@ -12,8 +12,6 @@
  I am an enthusiast and lover of technology, with Full-Stack experience acquired over 1 year of continuous study.
  I have solid knowledge in various technologies, such as: JavaScript, TypeScript, NestJS, ReactJS, NextJS, MySQL, among others.
 
-  I am currently participating in the <b>Generation Brasil</b> intensive Bootcamp.
-
 </p>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira-code-bold&pause=1000&color=5865F2&random=false&width=435&lines=Full-Stack+Developer&center=false&vCenter=false)](https://git.io/typing-svg)
